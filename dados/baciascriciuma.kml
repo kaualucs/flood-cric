@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Criciúma</name>
+	<StyleMap id="__managed_style_374F40A52C3AA92B6008">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_413B0881483AA92B6008</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_592C57DBE23AA92B6008</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0C958D3F073AA919366F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff9f3f30</color>
+				<width>12</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_413B0881483AA92B6008">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1965F9E5C63AA919366E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff9f3f30</color>
+				<width>8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_592C57DBE23AA92B6008">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0732FA2F723AA919366E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1965F9E5C63AA919366E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0C958D3F073AA919366F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0B70454CA33AA91878F4">
+		<name>Bacia Criciúma Rural</name>
+		<LookAt>
+			<longitude>-49.44694620209752</longitude>
+			<latitude>-28.66875477924804</latitude>
+			<altitude>55.03915320316052</altitude>
+			<heading>-13.49138180773765</heading>
+			<tilt>54.41601578071636</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>19779.57935619866</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0732FA2F723AA919366E</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-49.43735337979416,-28.69246366630028,0 -49.43231544934338,-28.69434400232646,0 -49.41865837057723,-28.69578809609715,0 -49.4133413165426,-28.6967785779726,0 -49.41387956895684,-28.68080398880197,0 -49.41220097868225,-28.67659324431716,0 -49.40632827765006,-28.67513779366234,0 -49.40360337129827,-28.675471611565,0 -49.39836643283287,-28.67665852166525,0 -49.39528487676946,-28.67563012137356,0 -49.38792149244215,-28.67267224226896,0 -49.372120881079,-28.66131840758052,0 -49.35746742477296,-28.65628424155699,0 -49.35355357984954,-28.64345979164164,0 -49.36909222389195,-28.63611571934375,0 -49.373129967953,-28.62609919399861,0 -49.37865641669912,-28.61857944713705,0 -49.39702457292802,-28.60868167115838,0 -49.40395005728237,-28.60919746664564,0 -49.41477121440496,-28.6041108245409,0 -49.42339302006851,-28.60646541026421,0 -49.43113233351307,-28.61043207845896,0 -49.43933184983176,-28.61849088700402,0 -49.43582927666975,-28.62653377343062,0 -49.44696507758152,-28.6345903940411,0 -49.4538069503241,-28.64550088242305,0 -49.45303194838925,-28.66241997314603,0 -49.44594114330625,-28.68325873019383,0 -49.43735337979416,-28.69246366630028,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="082729C6AB3AA92B6006">
+		<name>Bacia Criciúma Urbana</name>
+		<LookAt>
+			<longitude>-49.41249860480963</longitude>
+			<latitude>-28.65393260018001</latitude>
+			<altitude>42.61132448586741</altitude>
+			<heading>-3.268985376679305</heading>
+			<tilt>0.1022919353891701</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>28287.72526502609</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_374F40A52C3AA92B6008</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-49.37193978430388,-28.66128723922701,0 -49.3869835065646,-28.67232549592109,0 -49.39809251825893,-28.67677623414663,0 -49.40531595102606,-28.67522284446393,0 -49.41194054429854,-28.67652568184028,0 -49.41356191709752,-28.68154119349287,0 -49.41319540002213,-28.69674608501039,0 -49.41047190867079,-28.69712679507553,0 -49.40425740032783,-28.70333737158865,0 -49.39973474341055,-28.70698991705751,0 -49.39429246133985,-28.70141880043826,0 -49.39034006750282,-28.69941480073793,0 -49.38740799381151,-28.69830762803097,0 -49.3815051681903,-28.7040833463204,0 -49.37813271742355,-28.70228444072996,0 -49.37268745145545,-28.70105286743523,0 -49.36974203948203,-28.70230325475299,0 -49.36517799071783,-28.70268110113801,0 -49.36203054781815,-28.69792934320383,0 -49.35924699816722,-28.68884630306764,0 -49.35573608343906,-28.67780586320128,0 -49.35309672995165,-28.67204704449398,0 -49.3509045513443,-28.66556681702494,0 -49.35909969280375,-28.6614139844035,0 -49.3619231918513,-28.65821461480737,0 -49.37193978430388,-28.66128723922701,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
