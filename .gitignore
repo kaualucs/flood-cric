@@ -1,2 +1,5 @@
 # ignorar o geopackage
 ottobruto.gpkg
+cursodagua
+# GeoPackages grandes
+/dados/*.gpkg
